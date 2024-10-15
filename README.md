@@ -1,8 +1,2 @@
-body {
-background-color: lightblue;
-}
-
-h1 {
-color: navy;
-margin-left: 20px;
-}
+Hello World repository for git tutorial
+It also include steps for Github
